@@ -1,3 +1,4 @@
-# NORM BLYA
+## NORM BLYA
 ---
-**Hello world!**
+# Файл "algoritm"
+*В файле "algoritm" находятся разные алгоритмы поиска и сортировки*
