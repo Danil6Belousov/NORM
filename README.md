@@ -1,4 +1,4 @@
-## NORM BLYA
+# NORM BLYA
 ---
-# Файл "algoritm"
+## Папка "algoritm"
 *В файле "algoritm" находятся разные алгоритмы поиска и сортировки*
